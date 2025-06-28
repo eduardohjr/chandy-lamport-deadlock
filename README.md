@@ -1,4 +1,4 @@
-# chandy-lamport-bank
+# chandy-lamport-philosophers
 
 Este projeto implementa uma solução distribuída para o clássico problema dos Filósofos Jantando, incorporando um algoritmo de detecção de deadlock baseado no Algoritmo de Snapshot Distribuído de Chandy-Lamport. O sistema é composto por dois tipos de entidades: Filósofos e um Coordenador.
 
